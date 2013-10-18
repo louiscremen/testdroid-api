@@ -132,4 +132,4 @@ device_run.results
 5. Push your changes to the feature branch (`git push origin <my-feature-branch>`).
 6. Create a new pull request.
 
-Thanks to @soundcrowd-ursula for making this doc prettier. 
+Thanks to [@soundcrowd-ursula](https://github.com/soundcrowd-ursula) for making this doc prettier. 
