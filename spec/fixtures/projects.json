@@ -1,0 +1,22 @@
+[
+  {
+    "description" : "Project description",
+    "id" : 232340,
+    "name" : "Project 1",
+    "appFile": {
+      "originalName": "application.apk",
+      "uploadTime": 1344594363000
+    },
+    "testFile": {
+      "originalName": "instrumentation.apk",
+      "uploadTime": 1344594378000
+    }
+  },
+  {
+    "description" : "Project 2 desc.",
+    "id" : 232341,
+    "name" : "Project 2",
+    "appFile": null,
+    "testFile": null
+  }
+]

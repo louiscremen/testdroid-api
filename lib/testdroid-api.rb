@@ -1,0 +1,8 @@
+require 'json'
+require 'rest-client'
+require 'testdroid-api/version'
+require 'testdroid-api/client'
+require 'testdroid-api/client/device_group'
+require 'testdroid-api/client/project'
+require 'testdroid-api/client/project/test_run'
+require 'testdroid-api/client/project/test_run/device_run'

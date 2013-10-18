@@ -1,0 +1,34 @@
+[
+  {
+    "id": 112660,
+    "name": "2012-06-19_12:21:56_624c3f601b",
+    "displayName": "several",
+    "deviceCount": 3,
+    "creditsPrice" :10,
+    "coverage": 0
+  },
+  {
+    "id": 108590,
+    "name": "2012-06-14_17:45:02_337f6a5023",
+    "displayName": "all devices",
+    "deviceCount": 26,
+    "creditsPrice": 0,
+    "coverage": 0
+  },
+  {
+    "id": 108591,
+    "name": "2012-06-14_17:45:02_337f6a5023",
+    "displayName": "Test devices",
+    "deviceCount": 26,
+    "creditsPrice": 0,
+    "coverage": 0
+  },
+  {
+    "id": 108595,
+    "name": "2012-06-14_17:45:02_337f6a5023",
+    "displayName": "Smoke devices",
+    "deviceCount": 26,
+    "creditsPrice": 0,
+    "coverage": 0
+  }
+]

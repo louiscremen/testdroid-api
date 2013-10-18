@@ -1,0 +1,96 @@
+{
+  "address": "",
+  "name": "User Surname",
+  "id": 1333333,
+  "state": "",
+  "country": "RU",
+  "displayCountry": "Russin",
+  "timeZone": "GMT",
+  "username": "13221154",
+  "displayname": "User user",
+  "enabled": true,
+  "active": true,
+  "code": "",
+  "email": "user@company.com",
+  "googleId": null,
+  "billing": false,
+  "organization": {
+    "name": "",
+    "id": 1
+  },
+  "countryDisplayname": "Russia",
+  "city": "",
+  "phone": "",
+  "secretApiKey": "xxxxxxxxxxxxxxxxx",
+  "Organization role": "Other",
+  "vatID": "",
+  "accessible": true,
+  "activeRoles": [
+    {
+      "name": "TEST_RUN_SCREENSHOTS",
+      "active": true,
+      "timeLimitUsed": false,
+      "useLimit": 100,
+      "useLimited": true
+    },
+    {
+      "name": "FREE_RUN",
+      "active": true,
+      "timeLimitUsed": false,
+      "useLimit": 111111,
+      "useLimited": true
+    },
+    {
+      "name": "PRIORITY_GOLD",
+      "active": true,
+      "timeLimitUsed": true,
+      "useLimit": 0,
+      "useLimited": false
+    },
+    {
+      "name": "PAID_RUN",
+      "active": true,
+      "timeLimitUsed": true,
+      "useLimit": 0,
+      "useLimited": false
+    },
+    {
+      "name": "API_CLIENT",
+      "active": true,
+      "timeLimitUsed": true,
+      "useLimit": 0,
+      "useLimited": false
+    }
+  ],
+  "lastLoginTime": 1380651077429,
+  "registrationIP": null,
+  "purchasedUserServices": [
+
+  ],
+  "creditsLeft": "10000",
+  "Heard from": "Other",
+  "availableHearFromValues": [
+    "COWORKER",
+    "EMAIL_CAMPAIGN",
+    "EVENT",
+    "ONLINE_COMMUNITY",
+    "SOCIAL_NETWORK",
+    "WEB_SEARCH",
+    "OTHER"
+  ],
+  "availableOrganizationRoleValues": [
+    "CEO_OR_OWNER",
+    "VP",
+    "MANAGER",
+    "INDIVIDUAL",
+    "QUALITY_ASSURANCE",
+    "DEVELOPER",
+    "MARKETING",
+    "CONSULTANT",
+    "OTHER"
+  ],
+  "admin": false,
+  "accountNonExpired": true,
+  "accountNonLocked": true,
+  "credentialsNonExpired": true
+}

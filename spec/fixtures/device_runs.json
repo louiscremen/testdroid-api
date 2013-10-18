@@ -1,0 +1,35 @@
+[
+  {
+    "id": 29515106,
+    "deviceId": 217558,
+    "logURI": null,
+    "customerFailureMessage": "Oops, something went wrong",
+    "deviceName": "HTC Google Nexus One",
+    "junitURI": null,
+    "screenshotsURI": null,
+    "groupState": "FINISHED",
+    "finished": true
+  },
+  {
+    "id": 29515104,
+    "deviceId": 173661,
+    "logURI": null,
+    "customerFailureMessage": "Oops, something went wrong",
+    "deviceName": "HTC Wildfire",
+    "junitURI": null,
+    "screenshotsURI": null,
+    "groupState": "FINISHED",
+    "finished": true
+  },
+  {
+    "id": 29515105,
+    "deviceId": 216252,
+    "logURI": null,
+    "customerFailureMessage": "Failed to download test fixtures from Testdroid server",
+    "deviceName": "Samsung Galaxy Nexus 4.0.4",
+    "junitURI": null,
+    "screenshotsURI": null,
+    "groupState": "FINISHED",
+    "finished": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": 1000,
+  "deviceId": 216252,
+  "logURI": null,
+  "customerFailureMessage": "Failed to download test fixtures from Testdroid server",
+  "deviceName": "Samsung Galaxy Nexus 4.0.4",
+  "junitURI": null,
+  "screenshotsURI": null,
+  "groupState": "FINISHED",
+  "finished": true
+}
