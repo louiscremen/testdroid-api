@@ -87,9 +87,9 @@ module TestdroidApi
 
       def get_nonce
           chars = 'abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789'
-          password = ''
-          6.times do password << chars[rand(chars.size)] end
-          password
+          nonce = ''
+          6.times do nonce << chars[rand(chars.size)] end
+          nonce
       end
 
       def create_projects_from(configs)
